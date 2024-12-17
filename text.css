@@ -1,0 +1,48 @@
+p{
+    font-family: robot;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+.first{
+  font-size: 18px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.second{
+color:rgb(96,96,96) ;
+margin-bottom:25px ;
+font-size: 14px;
+}
+.third{
+color:rgb(96,96,96) ;
+font-size: 14px;
+margin-bottom: 18px;
+}
+
+
+.fourth{
+color:rgb(96,96,96);
+width: 300px;
+margin-bottom : 50px ;
+line-height: 18px;
+font-size: 15px ;
+
+}
+.fifth{
+background-color: red;
+color: white ;
+text-align: center ;
+font-size:15px ;
+padding-top:18px ;
+padding-bottom:18px ;
+
+}
+/* .sixth{
+
+
+} */
+.sixth:hover{
+text-decoration: underline;
+}
