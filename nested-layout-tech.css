@@ -1,8 +1,11 @@
 .ch-1{
-
+   width: 500px;
+}
+.video-preview-1{
+    width:300px;
 }
 .video-preview{
-        width: 500px ;
+        width: 100% ;
         display: inline-block;
 }
 .profile-1{
