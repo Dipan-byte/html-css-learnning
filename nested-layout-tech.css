@@ -2,10 +2,17 @@
 
 }
 .video-preview{
-        width: 300px;
+        width: 500px ;
+        display: inline-block;
 }
 .profile-1{
+    display: inline-block;
+    vertical-align: top;
 
+}
+.content{
+    display:inline-block ;
+    vertical-align: top;
 }
 .video-title{
 
