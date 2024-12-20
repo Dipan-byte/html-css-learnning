@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+.header{
+    display:flex ;
+    flex-direction: row;
+    height: 70px;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* background-color: rgb(248, 217, 63); */
+}
+.one{
+     background-color: lightblue;
+     width: 200px;
+}
+.two{
+     background-color: lightpink;
+     flex: 1;
+     max-width: 500px;
+     margin-left: 50px;
+     margin-right: 80px;
+}
+.three{
+      background-color: lightblue;
+      width: 300px;
+
+}
