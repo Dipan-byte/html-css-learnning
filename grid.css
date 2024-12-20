@@ -1,0 +1,28 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: robot;
+}
+div{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.lawra{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+
+}
+.pic{
+    width: 100%;
+    border-radius: 25px;
+
+}
+.lawra-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+
+}
+.lawra-pic{
+    width: 100% ;
+}
