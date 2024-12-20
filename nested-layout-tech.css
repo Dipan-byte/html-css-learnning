@@ -1,17 +1,30 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+div{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .ch-1{
    width: 500px;
 }
-.video-preview-1{
-    width:300px;
-}
 .video-preview{
-        width: 100% ;
-        display: inline-block;
+    width: 300px ;
+    display: inline-block;
 }
+.video-preview-1{
+    width: 100% ;
+}
+
 .profile-1{
     display: inline-block;
     vertical-align: top;
+    width: 50px;
 
+}
+.profile-img-1{
+    width: 100% ;
 }
 .content{
     display:inline-block ;
@@ -25,8 +38,4 @@
 
 }.video-decription{
 
-}
-.div{
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
