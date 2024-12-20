@@ -10,6 +10,7 @@ div{
 .lawra{
     display: grid;
     grid-template-columns: 50px 1fr;
+    column-gap: 10px;
 
 }
 .pic{
